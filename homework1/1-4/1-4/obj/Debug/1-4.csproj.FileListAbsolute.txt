@@ -1,0 +1,7 @@
+C:\Users\cunsh\Desktop\c#作业\homework1\1-4\1-4\bin\Debug\1-4.exe.config
+C:\Users\cunsh\Desktop\c#作业\homework1\1-4\1-4\bin\Debug\1-4.exe
+C:\Users\cunsh\Desktop\c#作业\homework1\1-4\1-4\bin\Debug\1-4.pdb
+C:\Users\cunsh\Desktop\c#作业\homework1\1-4\1-4\obj\Debug\1-4.csprojResolveAssemblyReference.cache
+C:\Users\cunsh\Desktop\c#作业\homework1\1-4\1-4\obj\Debug\1-4.csproj.CoreCompileInputs.cache
+C:\Users\cunsh\Desktop\c#作业\homework1\1-4\1-4\obj\Debug\1-4.exe
+C:\Users\cunsh\Desktop\c#作业\homework1\1-4\1-4\obj\Debug\1-4.pdb
