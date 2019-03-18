@@ -1,0 +1,7 @@
+C:\Users\cunsh\Desktop\c#作业\homework3\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\Abstract Factory Pattern.exe.config
+C:\Users\cunsh\Desktop\c#作业\homework3\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\Abstract Factory Pattern.exe
+C:\Users\cunsh\Desktop\c#作业\homework3\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\Abstract Factory Pattern.pdb
+C:\Users\cunsh\Desktop\c#作业\homework3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\Abstract Factory Pattern.csprojResolveAssemblyReference.cache
+C:\Users\cunsh\Desktop\c#作业\homework3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\Abstract Factory Pattern.csproj.CoreCompileInputs.cache
+C:\Users\cunsh\Desktop\c#作业\homework3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\Abstract Factory Pattern.exe
+C:\Users\cunsh\Desktop\c#作业\homework3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\Abstract Factory Pattern.pdb
