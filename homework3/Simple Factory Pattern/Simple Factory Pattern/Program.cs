@@ -27,7 +27,7 @@ namespace Simple_Factory_Pattern
         {
             public override void print()
             {
-                Console.WriteLine("我是小米手机");
+                Console.WriteLine("我是小米手机！");
             }
         }
 
