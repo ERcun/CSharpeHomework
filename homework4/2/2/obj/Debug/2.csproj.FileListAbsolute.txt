@@ -1,0 +1,7 @@
+C:\Users\cunsh\Desktop\c#作业\homework4\2\2\bin\Debug\2.exe.config
+C:\Users\cunsh\Desktop\c#作业\homework4\2\2\bin\Debug\2.exe
+C:\Users\cunsh\Desktop\c#作业\homework4\2\2\bin\Debug\2.pdb
+C:\Users\cunsh\Desktop\c#作业\homework4\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+C:\Users\cunsh\Desktop\c#作业\homework4\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\cunsh\Desktop\c#作业\homework4\2\2\obj\Debug\2.exe
+C:\Users\cunsh\Desktop\c#作业\homework4\2\2\obj\Debug\2.pdb
