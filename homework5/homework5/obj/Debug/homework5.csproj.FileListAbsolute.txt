@@ -1,0 +1,7 @@
+C:\Users\cunsh\Desktop\c#作业\homework5\homework5\homework5\bin\Debug\homework5.exe.config
+C:\Users\cunsh\Desktop\c#作业\homework5\homework5\homework5\bin\Debug\homework5.exe
+C:\Users\cunsh\Desktop\c#作业\homework5\homework5\homework5\bin\Debug\homework5.pdb
+C:\Users\cunsh\Desktop\c#作业\homework5\homework5\homework5\obj\Debug\homework5.csprojResolveAssemblyReference.cache
+C:\Users\cunsh\Desktop\c#作业\homework5\homework5\homework5\obj\Debug\homework5.csproj.CoreCompileInputs.cache
+C:\Users\cunsh\Desktop\c#作业\homework5\homework5\homework5\obj\Debug\homework5.exe
+C:\Users\cunsh\Desktop\c#作业\homework5\homework5\homework5\obj\Debug\homework5.pdb
